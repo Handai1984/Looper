@@ -40,7 +40,7 @@ namespace Umeng
         public static void Start()
         {
 #if UNITY_EDITOR
-        //Debug.LogWarning("友盟统计在iOS/Android 真机上才会向友盟后台服务器发送事件 请在真机上测试");
+//        Debug.LogWarning("友盟统计在iOS/Android 真机上才会向友盟后台服务器发送事件 请在真机上测试");
 
 #elif UNITY_IPHONE
 
